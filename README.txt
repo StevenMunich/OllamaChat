@@ -5,7 +5,7 @@ Plug-n-Play ChatGPT‑style web app (Flask + JS)
 
 Prequisites:
 1. Install Ollama: https://ollama.com/docs/installation
-2. Open powershell and run: ollama run llama3
+2. Open powershell and run: ollama run phi3
 3. Run this Flask app: python app.py
 4. Open your browser and go to: http://localhost:5000
 ----Problems?
