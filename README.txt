@@ -27,7 +27,6 @@ Only the model name changes. <--------
 How Ollama actually works (the part that matters)
 Ollama exposes a local HTTP API at:
 
-Code
 http://localhost:11434/api/generate
 Your Flask app sends JSON to that endpoint:
 
