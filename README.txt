@@ -36,7 +36,7 @@ payload = {
     "prompt": prompt,
     "stream": False
 }
-That "model": "llama3" line is the only thing that determines which AI model runs.
+That "model": "llama3" should match the model on ollama. This is a python backend talking to the ollama model serving a GPT-style front-end. 
 
 If you change it to "phi3" or "mistral" or "llama3:70b" or "deepseek-r1", your app still works — Ollama just loads a different model.
 
