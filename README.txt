@@ -1,3 +1,8 @@
+Prequisites: Ollama, Model installed on Ollama
+1. Run the model on Ollama
+2. Start the app, if your model is hermes may want to change model's value to match that Payload = { Model:"hermes"...
+3. click the link the app generates, it should send messages to your ollama server.
+
 
 ------------------------Instructions------------------------
 
